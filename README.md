@@ -1,0 +1,1 @@
+# Spectrum-Recognition-Singletype
